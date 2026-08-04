@@ -1,0 +1,2 @@
+# redeSocial
+repositorio com javaScript
